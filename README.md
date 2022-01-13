@@ -52,8 +52,11 @@ O que é o Swagger?
 O Swagger é um framework composto por diversas ferramentas que, independente da linguagem, auxilia a descrição, consumo e visualização de serviços de uma API REST. 
 
 No framework Swagger, existem ferramentas para os seguintes tipos de tarefas a serem realizadas para o completo desenvolvimento da API de um serviço WEB: 
+
 especificação
+
 implementação
+
 testes
 
 
